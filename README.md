@@ -12,14 +12,6 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="320">
 </div>
 
-- 🔭 I'm currently working on **Kapamilya Quest Ph** 💻
-- 🌱 I'm currently learning **Django** 📚
-- 👯 I'm looking to collaborate on **Open Source Projects** 🤝
-- 💬 Ask me about **JavaScript, Python** 💭
-- 📫 How to reach me: **pixelmain13@gmail.com** 📧
-- ⚡ Fun fact: **I'm Filipino 🇵🇭** 🎉
-- 🎯 2025 Goals: **Help more people connect and earn** 🌟
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
