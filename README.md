@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Hi%20there!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%27m%20Mark%20Ocampos%20%E2%80%94%20Aspiring%20Full-Stack%20Web%20Developer&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Hi%20there!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Making%20the%20web%20kinder,%20one%20line%20at%20a%20time.&descAlign=50&descAlignY=60" />
 </div>
 
 <div align="center">
@@ -12,6 +12,40 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="320">
 </div>
 
+---
+
+### 🔭 What I'm Working On
+
+- **`Questal`** – Not just a tool — a movement where meaningful help is currency, and collaboration builds reputation.
+- **`QuestalCoin`** – A reward token designed to recognize meaningful help.
+---
+
+### 📈 Goals
+
+- Make helping others rewarding through secure, gamified systems.
+- Build scalable open-source systems with real-world impact.
+- Launch `QuestalCoin` as a stable, utility-focused digital asset.
+- Enable every developer to drop `questal` into their platform with 1 line of code.
+
+---
+
+### 🧠 Interests
+
+- Real-time systems, WebSocket communication, and Django Channels
+- Ethical Web3 design (non-speculative tokenomics)
+- Clean RESTful APIs with flexible serializers, token logic, and custom permissions
+- Human-centered UX for technical products
+- OSS ecosystems that give back to contributors
+- Zero-bug engineering mindset, deliberate, tested, and traceable
+
+
+---
+
+### 📫 Let's Connect
+- [![GitHub](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mark-Anthony-Pxel)
+
+> *“Empowerment starts with contribution. Every line of code is a quest fulfilled.”*
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -19,10 +53,7 @@
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -38,7 +69,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🗄️ Databases
@@ -48,7 +78,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -57,7 +86,7 @@
 ### 🛠️ Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/-Canva-F24E1E?style=for-the-badge&logo=canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
